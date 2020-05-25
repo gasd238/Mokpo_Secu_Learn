@@ -5,4 +5,4 @@ FTK Imager 와 Active disk editor 등을 사용해 자기가 쓰는 USB나 하�
 - 와
 
 # VBR
--
+- 샌즈!
